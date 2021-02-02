@@ -1040,3 +1040,31 @@ h4 {
         text-align: center;
     }
 }
+
+/*Modification apportées*/
+
+.text-presentation {
+    display: flex;
+    justify-content: center;
+}
+.text-presentation > h2 {
+    text-align:center;
+    width: 60%;
+}
+.view-customer {
+    margin-left: 24.666667%;
+}
+.view-customer > h2 {
+    width: 80%;
+    font-size: 20px;
+    line-height: 1.2em;
+    margin-bottom: 0;
+}
+.view-customer > p {
+    margin-right: 13rem;
+    font-size: 14px;
+}
+.key-words {
+    font-size: large;
+    color: #363636 !important;
+}
