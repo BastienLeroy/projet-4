@@ -266,6 +266,8 @@ a:hover {
 
 .voffset {
     margin-top: 30px;
+    justify-content: center;
+    width: 100%;
 }
 
 .voffset-lg {
@@ -1051,17 +1053,16 @@ h4 {
     text-align:center;
     width: 60%;
 }
-.view-customer {
-    margin-left: 24.666667%;
-}
+
 .view-customer > h2 {
     width: 80%;
     font-size: 20px;
     line-height: 1.2em;
     margin-bottom: 0;
+    margin: auto;
 }
 .view-customer > p {
-    margin-right: 13rem;
+    margin: auto;
     font-size: 14px;
 }
 .key-words {
