@@ -1069,3 +1069,7 @@ h4 {
     font-size: large;
     color: #363636 !important;
 }
+
+.social > p{
+    display: none;
+}
