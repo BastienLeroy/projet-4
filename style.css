@@ -883,6 +883,7 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
+    }
        
 }
 
@@ -1066,4 +1067,4 @@ h4 {
 }
 .social > p {
     display: none;
-}}
+}
